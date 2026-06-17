@@ -1,0 +1,3 @@
+plain txt
+proyecto gitkraken
+version 1
